@@ -10,6 +10,7 @@ var albumsRouter = require('./routes/albums');
 var donacionesRouter = require('./routes/donaciones');
 var registroRouter = require('./routes/registro');
 
+
 var app = express();
 
 // view engine setup

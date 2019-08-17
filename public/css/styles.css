@@ -1,0 +1,39 @@
+.navbar {
+    background: #2E2B24;
+    height: 60px;
+}
+
+
+body{
+    background: #BFBCB4;
+}
+
+.navbar-right li a{
+    color: whitesmoke !important;
+    font-size: 19px;
+}
+
+.text-md-left{
+    background-color: #2E2B24;
+    color:  whitesmoke;
+}
+
+.py3{
+    color: whitesmoke;
+}
+
+#coy{
+    width: 35px;
+}
+
+#yt{
+    width: 30px;
+}
+
+#tw{
+    width: 30px;
+}
+
+#pa{
+    width: 30px;
+}
