@@ -24,6 +24,7 @@ body{
 
 #coy{
     width: 35px;
+    margin-top: -5px;
 }
 
 #yt{
@@ -36,4 +37,35 @@ body{
 
 #pa{
     width: 30px;
+}
+
+#cardForm{
+    border-radius: 51px 51px 51px 51px;
+-moz-border-radius: 51px 51px 51px 51px;
+-webkit-border-radius: 51px 51px 51px 51px;
+border: 7px solid #000000;
+
+webkit-box-shadow: 14px 12px 10px -4px rgba(0,0,0,0.76);
+-moz-box-shadow: 14px 12px 10px -4px rgba(0,0,0,0.76);
+box-shadow: 14px 12px 10px -4px rgba(0,0,0,0.76);
+
+margin-bottom:30px;
+
+text-align: center;
+}
+
+#sen{
+    border-radius: 146px 146px 146px 146px;
+-moz-border-radius: 146px 146px 146px 146px;
+-webkit-border-radius: 146px 146px 146px 146px;
+border: 0px solid #000000;
+
+background: -webkit-linear-gradient(left, rgba(254,182,69,1) 0%, rgba(241,231,103,1) 76%, rgba(241,231,103,1) 100%);
+}
+#sen:hover{
+    -webkit-box-shadow: 10px 9px 5px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 9px 5px -5px rgba(0,0,0,0.75);
+box-shadow: 10px 9px 5px -5px rgba(0,0,0,0.75);
+
+background: -webkit-linear-gradient(left, rgba(239,229,82,1) 0%, rgba(239,229,82,1) 12%, rgba(254,176,48,1) 78%, rgba(254,175,47,1) 79%);
 }
